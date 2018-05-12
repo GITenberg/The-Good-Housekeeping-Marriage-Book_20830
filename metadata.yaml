@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9549'
     url: http://www.gutenberg.org/2009/agents/9549
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20830#The-Good-Housekeeping-Marriage-Book
 gutenberg_issued: '2007-03-15'
 gutenberg_type: Text
 identifiers:
