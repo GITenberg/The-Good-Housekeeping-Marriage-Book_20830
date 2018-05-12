@@ -1,0 +1,35 @@
+_repo: The-Good-Housekeeping-Marriage-Book_20830
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Bigelow, William F. (William Frederick)
+    alias: Bigelow, William Frederick
+    birthdate: 1879
+    deathdate: 1966
+    gutenberg_agent_id: '9549'
+    url: http://www.gutenberg.org/2009/agents/9549
+description: ''
+gutenberg_issued: '2007-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Marriage'
+tableOfContents: When he comes a-courting, by E. R. Groves -- Now that you are engaged,
+  by J. L. McConaughy -- Ought I to marry? By Ellsworth Huntington -- Should wives
+  work? By Eleanor Roosevelt -- Learning to live together, by Gladys H. Groves --
+  Marriage makes the money go, by Elizabeth Bussing -- Children? Of course! By Jessie
+  Marshall -- Detour around Reno, by Hornell Hart -- Sex instruction in the home,
+  by Francis B. Strain -- Religion in the home, by W. L. Phelps -- It pays to be happily
+  married, by S. G. Dickinson -- The case for monogamy, by E. R. Groves and Gladys
+  H. Groves.
+title: The Good Housekeeping Marriage Book
+url: http://www.gutenberg.org/ebooks/20830
